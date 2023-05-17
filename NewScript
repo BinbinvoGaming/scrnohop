@@ -2935,7 +2935,7 @@ end
     end)
     
     --------------------------------------------------------------------
-    local Library = Update:Window("LOLI");
+    local Library = Update:Window("BinbinvoGaming");
     --------------------------------------------------------------------
     local Main = Library:Tab("Trang chủ","rbxassetid://6026568198")
 local Setting = Library:Tab("Cầu Đặc","rbxassetid://6034509993")
